@@ -1,0 +1,410 @@
+fileFormatVersion: 2
+guid: 16c7c9dc0e788ab4bb1091739d641b45
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Wallpaper_Stripe
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 3000
+      height: 3000
+    spriteID: 9b5b949bb09f73148aec909e2e922b4e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  - name: Wallpaper_Sky
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3012
+      width: 3000
+      height: 3000
+    spriteID: 2645d34595f78fd4188955689406a0db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 3012}
+  - name: Wallpaper_Oriental
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3012
+      y: 3012
+      width: 2786
+      height: 2570
+    spriteID: 70c9aaf12f85a8b48b3f04dbfc3dd441
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2889, y: 2582}
+  - name: Wallpaper_Night
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 6020
+      width: 3000
+      height: 3000
+    spriteID: 6ec504c53c6037f4b9dbc0965be60066
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 6020}
+  - name: Wallpaper_Heart
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 9028
+      width: 3000
+      height: 3000
+    spriteID: 81e79f0d82929bd47928d994bca290c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 9028}
+  - name: Wallpaper_Gradient
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3012
+      y: 5590
+      width: 3000
+      height: 2074
+    spriteID: 46d1655cea8167e4083ff3bc1e6cc179
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3012, y: 5590}
+  - name: Wallpaper_Fancy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 12036
+      width: 3000
+      height: 3000
+    spriteID: 75bd1cff83616284eb2ae5f8e00dac2a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 12036}
+  - name: Wallpaper_Circle
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3012
+      y: 7672
+      width: 2463
+      height: 2476
+    spriteID: b6e4b49db7f8a11458f2c58644df9084
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2750, y: 7393}
+  - name: Wallpaper_Basic
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3012
+      y: 4
+      width: 3000
+      height: 3000
+    spriteID: 84d1f2b59151ca7498c5a7d57069eb23
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3012, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Wallpaper_Stripe
+    spriteName: Wallpaper_Stripe
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9b5b949bb09f73148aec909e2e922b4e
+    layerID: 0
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Wallpaper_Sky
+    spriteName: Wallpaper_Sky
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2645d34595f78fd4188955689406a0db
+    layerID: 810238622
+    mosaicPosition: {x: 4, y: 3012}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Wallpaper_Oriental
+    spriteName: Wallpaper_Oriental
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 70c9aaf12f85a8b48b3f04dbfc3dd441
+    layerID: -67565135
+    mosaicPosition: {x: 3012, y: 3012}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Wallpaper_Night
+    spriteName: Wallpaper_Night
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6ec504c53c6037f4b9dbc0965be60066
+    layerID: 1626792139
+    mosaicPosition: {x: 4, y: 6020}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Wallpaper_Heart
+    spriteName: Wallpaper_Heart
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 81e79f0d82929bd47928d994bca290c2
+    layerID: -1713789179
+    mosaicPosition: {x: 4, y: 9028}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Wallpaper_Gradient
+    spriteName: Wallpaper_Gradient
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 46d1655cea8167e4083ff3bc1e6cc179
+    layerID: -1459225007
+    mosaicPosition: {x: 3012, y: 5590}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Wallpaper_Fancy
+    spriteName: Wallpaper_Fancy
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 75bd1cff83616284eb2ae5f8e00dac2a
+    layerID: -1424813678
+    mosaicPosition: {x: 4, y: 12036}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Wallpaper_Circle
+    spriteName: Wallpaper_Circle
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b6e4b49db7f8a11458f2c58644df9084
+    layerID: 1044738525
+    mosaicPosition: {x: 3012, y: 7672}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Wallpaper_Basic
+    spriteName: Wallpaper_Basic
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 84d1f2b59151ca7498c5a7d57069eb23
+    layerID: 1351128805
+    mosaicPosition: {x: 3012, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SaveButtonParent
+  - Rename
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - Art
+  - myUI
+  - mmokmo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Wallpaper
+    uniqueID: 240438189
+    locked: 0
+  - name: Back
+    uniqueID: 1662886569
+    locked: 0
+  - name: In Front of Back
+    uniqueID: 3070298165
+    locked: 0
+  - name: Back Hair
+    uniqueID: 3124670177
+    locked: 0
+  - name: Hair
+    uniqueID: 1576729299
+    locked: 0
+  - name: Behind Body
+    uniqueID: 1612132101
+    locked: 0
+  - name: Body
+    uniqueID: 2436311741
+    locked: 0
+  - name: Clothes 1
+    uniqueID: 1255227427
+    locked: 0
+  - name: Face
+    uniqueID: 1372080007
+    locked: 0
+  - name: Eye
+    uniqueID: 335571223
+    locked: 0
+  - name: Clothes 2
+    uniqueID: 3447669457
+    locked: 0
+  - name: Accessories
+    uniqueID: 12503269
+    locked: 0
+  - name: Face Accessories
+    uniqueID: 3347928437
+    locked: 0
+  - name: Front Hair
+    uniqueID: 961661625
+    locked: 0
+  - name: Head Accessories
+    uniqueID: 1020708517
+    locked: 0
+  - name: Hand
+    uniqueID: 2822404329
+    locked: 0
+  - name: UI
+    uniqueID: 1182267167
+    locked: 0
+  - name: DisplayAvatar
+    uniqueID: 2718087177
+    locked: 0
